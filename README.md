@@ -18,6 +18,8 @@ This project explores patterns and insights from a job placement dataset using S
 
 ## 🔍 Sample Query Insight
 > Mkt&Fin specialization students have higher placement rates (95 placed) compared to Mkt&HR (53 placed).
+[Click here to view the SQL file](https://github.com/Rajnandini-0804/job_placement_analysis.sql/blob/main/Project%20job%20placement%20mysql.sql)
+
 
 ## 📬 Contact
 Created by Rajnandini Bhosale  
